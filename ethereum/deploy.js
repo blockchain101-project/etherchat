@@ -8,8 +8,8 @@ const interface = compiledFactory.interface;
 const bytecode = compiledFactory.bytecode;
 
 const provider = new HDWalletProvider(
-    'crystal hill lonely manual struggle cabin retire abuse cable spell orange predict',
-    'https://rinkeby.infura.io/Q2aBIgYNhIB60VsqyrN1'
+    'purity picture property retreat fun canyon dream scene put arm ahead valve',
+    'https://rinkeby.infura.io/v3/022ca0f2028f4cfdb62dcf022c4ebb40'
 );
 
 console.log(provider);

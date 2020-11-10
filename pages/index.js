@@ -67,7 +67,7 @@ class Index extends Component {
 
                 <UpdateProfileModal account={account} contractManager={contractManager} />
                 <PrivateKeyModal account={account} />
-                <HeaderMenu account={account} transactionDispatcher={transactionDispatcher}/>
+                <HeaderMenu account={account} transactionDispatcher={transactionDispatcher} contractManager={contractManager}/>
                 <GuideModal />
                 <ErrorModal />
                 <SettingsModal account={account} />
